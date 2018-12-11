@@ -1,2 +1,1 @@
-# nlp-project
-nlp project
+# detox
